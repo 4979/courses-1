@@ -38,3 +38,11 @@ E. [**Reproducible Research**](https://www.coursera.org/account/accomplishments/
 | Completed by    | Prabhat Kumar on Aug 04, 2015 |
 | Durations       | 4 weeks |
 - by Roger D. Peng, PhD, Jeff Leek, PhD & Brian Caffo, PhD; Johns Hopkins University, USA.
+
+F. [**Statistical Inference**](https://www.coursera.org/account/accomplishments/certificate/95V5YH58Z6)
+
+| Grade Achieved: | 100.0% |
+| --------------- | ------ |
+| Completed by    | Prabhat Kumar on Aug 30, 2015 |
+| Durations       | 4 weeks |
+- by Roger D. Peng, PhD, Jeff Leek, PhD & Brian Caffo, PhD; Johns Hopkins University, USA.
