@@ -27,3 +27,11 @@ Cluster the quiz_B.data using k-means with K = 2, K = 3, K = 4, and K = 5. Which
 - K = 2
 - K = 5
 - K = 3	
+
+#### Question - 5
+Cluster the quiz_C.data using k-means with K = 2. What is the NMI?
+#### Answer
+- 0.006507
+- 0.1201
+- 0.4575
+- 0.0006507
