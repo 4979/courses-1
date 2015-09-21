@@ -9,6 +9,13 @@ Cluster the quiz_A.data using k-means method and set K = 2. Based on quiz_A.grou
 #### Question - 2
 Cluster the quiz_A.data using k-means and kernel k-means methods with K = 2. Based on Purity and NMI, which method is better?
 #### Answer
-- K-means	Correct
+- K-means
 - Kernel k-means
+- The two methods are indifferent
+
+#### Question - 3
+Cluster the quiz_B.data using k-means and kernel k-means methods with K = 2. Based on Purity, which method is better?
+#### Answer
+- Kernel k-means
+- K-means
 - The two methods are indifferent
