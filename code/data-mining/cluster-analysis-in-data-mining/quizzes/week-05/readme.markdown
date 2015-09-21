@@ -35,3 +35,9 @@ Cluster the quiz_C.data using k-means with K = 2. What is the NMI?
 - 0.1201
 - 0.4575
 - 0.0006507
+
+#### Question - 6
+Cluster the quiz_C.data using k-means and kernel k-means methods. Based on NMI, which method is better?
+- Kernel k-means
+- The two methods are indifferent
+- K-means
