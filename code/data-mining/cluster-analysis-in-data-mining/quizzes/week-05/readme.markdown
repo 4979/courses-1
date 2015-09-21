@@ -19,3 +19,11 @@ Cluster the quiz_B.data using k-means and kernel k-means methods with K = 2. Bas
 - Kernel k-means
 - K-means
 - The two methods are indifferent
+
+### Question - 4
+Cluster the quiz_B.data using k-means with K = 2, K = 3, K = 4, and K = 5. Which K achieves the highest purity?
+#### Answer
+- K = 4
+- K = 2
+- K = 5
+- K = 3	
