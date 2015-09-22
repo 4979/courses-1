@@ -22,3 +22,4 @@ You’ll learn to analyze large and complex datasets, build applications that ca
 
 ## Instructors
 1. [Emily Fox](http://www.stat.washington.edu/~ebfox/), Amazon Professor of Machine Learning Statistics, University of Washington, USA.
+2. [Carlos Guestrin](http://homes.cs.washington.edu/~guestrin/), Amazon Professor of Machine Learning, University of Washington, USA.
