@@ -11,3 +11,11 @@ You’ll learn to analyze large and complex datasets, build applications that ca
 
 <a href="http://www.washington.edu/"><img src="media/uw-purple-logo.png" alt="UW" width="66" height="66"></a>
 <a href="https://dato.com/"><img src="media/dato.png" alt="dato" width="150" height="66"></a>
+
+## Courses
+1. Machine Learning Foundations: A Case Study Approach
+2. Regression
+3. Classification
+4. Clustering & Retrieval
+5. Recommender Systems & Dimensionality Reduction
+6. **Machine Learning Capstone**: An Intelligent Application with Deep Learning
