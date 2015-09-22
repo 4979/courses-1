@@ -38,6 +38,14 @@ Cluster the quiz_C.data using k-means with K = 2. What is the NMI?
 
 #### Question - 6
 Cluster the quiz_C.data using k-means and kernel k-means methods. Based on NMI, which method is better?
+#### Answer
 - Kernel k-means
 - The two methods are indifferent
 - K-means
+
+#### Question - 7
+Cluster the seed.data using kernel k-means methods with K = 2, K = 3, and K = 4. Based on NMI, which K is best?
+#### Answer
+- K = 3
+- K = 4
+- K = 2
