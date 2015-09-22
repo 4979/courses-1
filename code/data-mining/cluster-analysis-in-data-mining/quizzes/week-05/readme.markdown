@@ -56,3 +56,20 @@ Cluster the seed.data using k-means and kernel k-means methods with K = 3. Based
 - Kernel k-means
 - K-means
 - The two methods
+
+## Answers and Explanation
+**Answer - 1:** "0.973"
+
+**Answer - 2:** "K-means", K-means has higher purity and NMI than kernel K-means.
+
+**Answer - 3:** "Kernel K-means", Kernel K-means has higher purity and NMI than K-means.
+
+**Answer - 4:** "K = 2", When K = 2, the purity is largest with purity = 0.745.
+
+**Answer - 5:** "0.0006507"
+
+**Answer - 6:** "Kernel K-means", Kernel K-means has higher purity and NMI than K-means.
+
+**Answer - 7:** "K = 3", K = 3 achieves the best NMI for kernel K-means.
+
+**Answer - 8:** "K-means", K-means has higher purity than kernel k-means.
