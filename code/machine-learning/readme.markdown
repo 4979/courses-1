@@ -19,3 +19,6 @@ You’ll learn to analyze large and complex datasets, build applications that ca
 4. Clustering & Retrieval
 5. Recommender Systems & Dimensionality Reduction
 6. **Machine Learning Capstone**: An Intelligent Application with Deep Learning
+
+## Instructors
+1. [Emily Fox](http://www.stat.washington.edu/~ebfox/), Amazon Professor of Machine Learning Statistics, University of Washington, USA.
