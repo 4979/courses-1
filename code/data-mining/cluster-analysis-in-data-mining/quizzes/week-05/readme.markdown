@@ -49,3 +49,10 @@ Cluster the seed.data using kernel k-means methods with K = 2, K = 3, and K = 4.
 - K = 3
 - K = 4
 - K = 2
+
+#### Question - 8
+Cluster the seed.data using k-means and kernel k-means methods with K = 3. Based on Purity, which method is better?
+#### Answer
+- Kernel k-means
+- K-means
+- The two methods
